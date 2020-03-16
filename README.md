@@ -1,5 +1,5 @@
 # Kickstarter-Analysis
-UCBE Data Analytics: Performing analysis on Kickstarter data to detect trends
+UCBE Data Analytics: Performing analysis on Kickstarter data to detect trends. 
 
 ## Goals:
 The primary goal's parameters are 1: Fever will be performed in the United States, 2: Louise estimated a budget greater than or equal to 10,000 USD to cover operating costs. The secondary goal's parameters are: Produce and perform a musical in the United Kingdom, 2: Louise estimated a budget of 4,000 GBP.
@@ -15,3 +15,10 @@ The limiting factors placed by Louise for her musical is location and budget. Lo
 
 ## Secondary Goal Conclusion:
 Louise needs to determine how to reduce her British musical's budget to 3,000 GBP or less without sacrificing the quality of her musical. Louise should ensure Kickstarter spotlights the musical to gain the public's interest and gain the needed backers to fund her play. As with her play "Fever," Louise should look further into a suggested donation amount to get a high average donation amount to reacher the required funding. 
+
+### Challenge
+#### Outcomes Based on Goals
+Based on the given chart, one can see the majority of successful global play goals falls between 1,000 and 5,000 units of currency. Louise should check to see that her goal for "Fever" falls within this range. She should also double check to see if there is a difference in successful American play goals to fine tune her budget.
+
+#### Global Theater Outcomes Based on Launch Date
+Based on the given chart, one can see peaks in February, May, and October for failed and successful theater projects. While more analysis is required, it might be possible that there are peaks in these months due to seasonal demand. If seasonal demand is the cause, Louise should aim to launch her campaigns during Fenrary, May, and October to ensure success.
