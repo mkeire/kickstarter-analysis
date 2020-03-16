@@ -1,5 +1,5 @@
 # Kickstarter-Analysis
-UCBE Data Analytics: Performing analysis on Kickstarter data to detect trends. 
+UCBE Data Analytics: Performing analysis on Kickstarter data to detect trends. See PDFs for charts. PDF files were used over PNG due to formatting issues. For questions, please contact Max Keire at maxkeire@tutanota.com.
 
 ## Goals:
 The primary goal's parameters are 1: Fever will be performed in the United States, 2: Louise estimated a budget greater than or equal to 10,000 USD to cover operating costs. The secondary goal's parameters are: Produce and perform a musical in the United Kingdom, 2: Louise estimated a budget of 4,000 GBP.
